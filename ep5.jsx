@@ -4,4 +4,4 @@ const newColors = ["black", "white"];
 
 allColors.push(...newColors);
 
-console.log(allColors);
+console.log(allColors); 
