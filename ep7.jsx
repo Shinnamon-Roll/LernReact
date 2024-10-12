@@ -10,7 +10,7 @@ const product = {
 
 const productname = product.productName;
 
-const {productName : productName, price : price, stock : stock} = product
+const {productName : productName, price : price, stock : stock} = product //Left is properties right is variables
 
 console.log(productName);
 console.log(price);
