@@ -13,6 +13,6 @@ const data = [10, 20, 30, 40, 50]
 
 
 //for of
-for (const element of data) {
+for (const element of data) {   //can break and continue
     console.log(element)
 }
